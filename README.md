@@ -2,7 +2,7 @@
 ### PhamAnhNgu
 
 # ☘️**Chào mừng GitHub**  
-## **Giới thiệu**  
+## 🚀 **Giới thiệu**  
 - **Môn học:** CT299  
 - **Nhóm:** 8  
 - **Thành viên:**  
