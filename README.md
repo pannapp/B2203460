@@ -7,9 +7,9 @@
 - **Nhóm:** 8  
 - **Thành viên:**  
   -👤 Phạm Anh Ngữ  
-  -👤 Huỳnh Hiệp Phát
-  -👤 Lưu Khả Nghị
-  -👤 Thạch Sê Tha
+  -👤 Huỳnh Hiệp Phát  
+  -👤 Lưu Khả Nghị  
+  -👤 Thạch Sê Tha  
 ## ✅ Các công việc cần thực hiện  
 - [X] Tạo README.md    
 - [ ] Làm demo  
